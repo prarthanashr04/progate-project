@@ -1,0 +1,17 @@
+.container h1{
+    font-size:50px;
+    color:maroon;
+    background-color: orange;
+    padding:50px 600px;
+    border:50px 600px;
+    border-color: orangered;
+    float: right;
+
+}
+
+img{
+    width:1200px;
+    height: 600px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
